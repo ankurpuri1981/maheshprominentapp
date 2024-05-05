@@ -1,3 +1,4 @@
+Changed made in github remote repo
 Here are some of the other git commands that are important from an exam perspective
 
 1. Git gc command - This is a command that is used for maintenance purposes. The gc command is a garbage collection command and is used to clean up the git repository.
